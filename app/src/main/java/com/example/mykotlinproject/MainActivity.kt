@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         master add 3
+
+
+        master --- add 3
     }
 }
