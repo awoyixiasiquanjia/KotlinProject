@@ -11,7 +11,13 @@ class MainActivity : AppCompatActivity() {
         master -----------------
 
 
+<<<<<<< HEAD
         dev-1 add 1
         dev-1 add 2
+=======
+
+
+        master ----------------end
+>>>>>>> af92389 (master ----end)
     }
 }
