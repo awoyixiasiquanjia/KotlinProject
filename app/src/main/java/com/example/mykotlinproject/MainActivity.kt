@@ -9,5 +9,13 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         master add 3
+
+
+
+
+
+
+        dev-2 add 1
+        
     }
 }
